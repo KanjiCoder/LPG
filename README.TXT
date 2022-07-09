@@ -39,3 +39,16 @@
         lpg_mem[ p_mybytearray ][ 12 ]=( 34 );
 
 //:====================================================:ABOUT://
+//:STRATEGY:=================================================://
+
+    We will use "overwhelming force" to accomplish...
+    We will code review EVERY FUCKING GOD DAMNED LINE
+    ON VIDEO AND UPLOAD IT TO YOUTUBE SHORTS. Every
+    line of code gets a detailed explanation.
+       
+    ( as detailed as can be in under 1 minute )
+
+    We will write the code slowly... Build it up...
+    And hopefully be finished by the time I need it.
+
+//:=================================================:STRATEGY://
